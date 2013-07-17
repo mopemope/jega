@@ -1,0 +1,6 @@
+include README.rst
+include LICENSE
+include src/*.h
+include lib/picoev/*.h
+include lib/greenlet/*.h
+recursive-include lib/c-ares *.h
